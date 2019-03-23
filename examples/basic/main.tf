@@ -1,5 +1,5 @@
 module "example" {
-  source = "../../"
+  source = "git::https://gitlab.com/infraprints/modules/netlify/gitlab-cicd.git?ref=master"
 
   name          = "infraprints-co"
   custom_domain = "dev.infraprints.co"
