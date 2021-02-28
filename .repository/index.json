@@ -1,0 +1,18 @@
+{
+  "slug": "terraform-gitlab-netlify-cicd",
+  "namespace": "infraprints",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "gitlab",
+    "netlify",
+    "cicd"
+  ],
+  "languages": [
+    "HCL"
+  ]
+}
